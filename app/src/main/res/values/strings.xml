@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GridView</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
 </resources>
